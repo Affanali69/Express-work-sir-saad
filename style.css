@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+.button button{
+    width: 100% !important;
+    margin-top: 20px;
+}
+li{
+    display: flex;
+    justify-content: space-betwee;
+    list-style: decimal;
+}
